@@ -1,0 +1,19 @@
+{
+    "output": [
+        {
+            "tortilla": 2,
+            "onion tortilla": 1,
+            "nonion tortilla": 1
+        },
+        {
+            "tortilla": 3,
+            "onion tortilla": 2,
+            "nonion tortilla": 1
+        },
+        {
+            "tortilla": 1,
+            "onion tortilla": 1,
+            "nonion tortilla": 0
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+	"use cases number": 3,
+	"use cases":
+	[
+		{
+			"onion people": 2,
+			"nonion people": 2
+		},
+		{
+			"onion people": 3,
+			"nonion people": 2
+		},
+		{
+			"onion people": 1,
+			"nonion people": 0
+		}
+	]
+}
